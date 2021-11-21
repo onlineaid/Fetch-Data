@@ -1,0 +1,5 @@
+load your text with fatch API.. It's easy.
+
+https://fakestoreapi.com/products
+
+https://getbootstrap.com/docs/5.0/getting-started/introduction/
